@@ -1,3 +1,21 @@
+export 'package:flutter_widgets/widgets/display/gridpaper.dart';
+
+export 'package:flutter_widgets/widgets/display/gridpaper.dart';
+
+export 'package:flutter_widgets/widgets/display/fractionaltranslation.dart';
+
+export 'package:flutter_widgets/widgets/display/factionallysizebox.dart';
+
+export 'package:flutter_widgets/widgets/display/factionallysizebox.dart';
+
+export 'package:flutter_widgets/widgets/display/flexible.dart';
+
+export 'package:flutter_widgets/widgets/display/filterchip.dart';
+
+export 'package:flutter_widgets/widgets/animation/fadetransition.dart';
+
+export 'package:flutter_widgets/widgets/display/fadeinimage.dart';
+
 export 'package:flutter_widgets/widgets/display/expansiontile.dart';
 
 export 'package:flutter_widgets/widgets/display/expansionpanellist.dart';
