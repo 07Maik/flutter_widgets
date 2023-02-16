@@ -1,3 +1,17 @@
+export 'package:flutter_widgets/widgets/display/limitedbox.dart';
+
+export 'package:flutter_widgets/widgets/display/interactiveviewer.dart';
+
+export 'package:flutter_widgets/widgets/display/interactiveviewer.dart';
+
+export 'package:flutter_widgets/widgets/display/inputchip.dart';
+
+export 'package:flutter_widgets/widgets/display/indexstack.dart';
+
+export 'package:flutter_widgets/widgets/display/gridtilebar.dart';
+
+export 'package:flutter_widgets/widgets/display/gridtite.dart';
+
 export 'package:flutter_widgets/widgets/display/gridpaper.dart';
 
 export 'package:flutter_widgets/widgets/display/gridpaper.dart';
