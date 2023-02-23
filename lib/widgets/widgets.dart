@@ -1,3 +1,15 @@
+export 'package:flutter_widgets/widgets/display/rotatebox.dart';
+
+export 'package:flutter_widgets/widgets/display/mouseregion.dart';
+
+export 'package:flutter_widgets/widgets/display/modalbarrier.dart';
+
+export 'package:flutter_widgets/widgets/display/refreshindicator.dart';
+
+export 'package:flutter_widgets/widgets/display/listener.dart';
+
+export 'package:flutter_widgets/widgets/display/linearprogressindicator.dart';
+
 export 'package:flutter_widgets/widgets/display/limitedbox.dart';
 
 export 'package:flutter_widgets/widgets/display/interactiveviewer.dart';
