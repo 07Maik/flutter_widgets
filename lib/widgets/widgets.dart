@@ -1,3 +1,11 @@
+export 'package:flutter_widgets/widgets/scroll/listwheelscrollview.dart';
+
+export 'package:flutter_widgets/widgets/display/longpressdraggable.dart';
+
+export 'package:flutter_widgets/widgets/listener/notificationlistener.dart';
+
+export 'package:flutter_widgets/widgets/animations/animatedmodalbarrier.dart';
+
 export 'package:flutter_widgets/widgets/display/rotatebox.dart';
 
 export 'package:flutter_widgets/widgets/display/mouseregion.dart';
@@ -38,7 +46,7 @@ export 'package:flutter_widgets/widgets/display/flexible.dart';
 
 export 'package:flutter_widgets/widgets/display/filterchip.dart';
 
-export 'package:flutter_widgets/widgets/animation/fadetransition.dart';
+export 'package:flutter_widgets/widgets/animations/fadetransition.dart';
 
 export 'package:flutter_widgets/widgets/display/fadeinimage.dart';
 
@@ -62,7 +70,7 @@ export 'package:flutter_widgets/widgets/display/dismissible.dart';
 
 export 'package:flutter_widgets/widgets/display/defaulttextstyle.dart';
 
-export 'package:flutter_widgets/widgets/animation/decoratedboxtransition.dart';
+export 'package:flutter_widgets/widgets/animations/decoratedboxtransition.dart';
 
 export 'package:flutter_widgets/widgets/display/decoratedbox.dart';
 
@@ -90,7 +98,7 @@ export 'package:flutter_widgets/widgets/display/baseline.dart';
 
 export 'package:flutter_widgets/widgets/display/banner.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedlist.dart';
+export 'package:flutter_widgets/widgets/animations/animatedlist.dart';
 
 export 'package:flutter_widgets/widgets/display/placeholder.dart';
 
@@ -98,21 +106,21 @@ export 'package:flutter_widgets/widgets/display/backdropfilter.dart';
 
 export 'package:flutter_widgets/widgets/display/aspectradio.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedswitcher.dart';
+export 'package:flutter_widgets/widgets/animations/animatedswitcher.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedsize.dart';
+export 'package:flutter_widgets/widgets/animations/animatedsize.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedrotation.dart';
+export 'package:flutter_widgets/widgets/animations/animatedrotation.dart';
 
 export 'package:flutter_widgets/widgets/display/physicsshape.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedpositioned.dart';
+export 'package:flutter_widgets/widgets/animations/animatedpositioned.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedphysicalmodel.dart';
+export 'package:flutter_widgets/widgets/animations/animatedphysicalmodel.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatepadding.dart';
+export 'package:flutter_widgets/widgets/animations/animatepadding.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedopacity.dart';
+export 'package:flutter_widgets/widgets/animations/animatedopacity.dart';
 
 export 'package:flutter_widgets/widgets/display/physicmodel.dart';
 
@@ -122,13 +130,13 @@ export 'package:flutter_widgets/widgets/display/overflowbox.dart';
 
 export 'package:flutter_widgets/widgets/display/overflowbar.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedicon.dart';
+export 'package:flutter_widgets/widgets/animations/animatedicon.dart';
 
-export 'package:flutter_widgets/widgets/animation/animateddefaulttextstyle.dart';
+export 'package:flutter_widgets/widgets/animations/animateddefaulttextstyle.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedcrossfade.dart';
+export 'package:flutter_widgets/widgets/animations/animatedcrossfade.dart';
 
-export 'package:flutter_widgets/widgets/animation/animatedalign.dart';
+export 'package:flutter_widgets/widgets/animations/animatedalign.dart';
 
 export 'package:flutter_widgets/widgets/navigation/navigationbar.dart';
 
