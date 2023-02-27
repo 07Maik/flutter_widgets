@@ -1,3 +1,13 @@
+export 'package:flutter_widgets/widgets/inputs/rangerslider.dart';
+
+export 'package:flutter_widgets/widgets/inputs/radiolisttile.dart';
+
+export 'package:flutter_widgets/widgets/inputs/radio.dart';
+
+export 'package:flutter_widgets/widgets/display/preferredsize.dart';
+
+export 'package:flutter_widgets/widgets/animations/positionedtransition.dart';
+
 export 'package:flutter_widgets/widgets/scroll/listwheelscrollview.dart';
 
 export 'package:flutter_widgets/widgets/display/longpressdraggable.dart';

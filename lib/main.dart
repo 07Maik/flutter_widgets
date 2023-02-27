@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const widgets.ListWheelScrollViewWidget(),
+      home: const widgets.RangeSliderWidget(),
     );
   }
 }
