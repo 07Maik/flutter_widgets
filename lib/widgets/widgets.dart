@@ -1,3 +1,19 @@
+export 'package:flutter_widgets/widgets/texts/selectabletext.dart';
+
+export 'package:flutter_widgets/widgets/scroll/scrollbar.dart';
+
+export 'package:flutter_widgets/widgets/animations/scaletransition.dart';
+
+export 'package:flutter_widgets/widgets/animations/rotationtransition.dart';
+
+export 'package:flutter_widgets/widgets/texts/richtext.dart';
+
+export 'package:flutter_widgets/widgets/scroll/reorderablelistview.dart';
+
+export 'package:flutter_widgets/widgets/display/rawchip.dart';
+
+export 'package:flutter_widgets/widgets/inputs/rawautocomplete.dart';
+
 export 'package:flutter_widgets/widgets/inputs/rangerslider.dart';
 
 export 'package:flutter_widgets/widgets/inputs/radiolisttile.dart';
