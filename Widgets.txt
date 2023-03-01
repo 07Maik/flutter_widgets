@@ -2,11 +2,8 @@ Flow*
 Sliver*
 
 
-**Rive
-**go_router [deeplinking]
-**dartz
 **freezed
 **dio
 **getit
-
-BlocObserver
+**go_router [deeplinking]
+**Rive
