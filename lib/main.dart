@@ -2,8 +2,8 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
-// import 'package:flutter_widgets/widgets/widgets.dart' as widgets;
-import 'package:flutter_widgets/packages/packages.dart' as packages;
+import 'package:flutter_widgets/widgets/widgets.dart' as widgets;
+// import 'package:flutter_widgets/packages/packages.dart' as packages;
 
 void main() {
   runApp(const MyApp());
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const packages.DioExampleScreen(),
+      home: const widgets.SimpleDialogWidget(),
     );
   }
 }
