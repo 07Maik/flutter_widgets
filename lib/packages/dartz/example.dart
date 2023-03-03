@@ -10,13 +10,13 @@ class Example {
 
   Example() : repository = Repository();
 
-  Future<List<String>> getNamesStudents() {
-    return repository.getNamesStudents().then(
-          (value) => value.fold(
-            (left) => throw (left.message),
-            (right) => right.data,
-          ),
-        );
+  Future<List<String>> getNamesStudents() async {
+    final request = await repository.getNamesStudents();
+
+    return request.fold(
+      (left) => throw (left.message),
+      (right) => right.data,
+    );
   }
 }
 

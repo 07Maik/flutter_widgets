@@ -2,7 +2,6 @@ Flow*
 Sliver*
 
 
-**freezed
 **dio
 **getit
 **go_router [deeplinking]
