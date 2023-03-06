@@ -1,3 +1,5 @@
+export 'package:flutter_widgets/widgets/specials/shortcuts.dart';
+
 export 'package:flutter_widgets/widgets/modals/simpledialog.dart';
 
 export 'package:flutter_widgets/widgets/display/shadermask.dart';
