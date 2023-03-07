@@ -5,21 +5,22 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_widgets",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "flutter_widgets (profile mode)",
+            "name": "Production",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "profile"
+            "program": "lib/main.dart",
+            "args": [
+                "--dart-define=SERVICE_API=url",
+            ]
         },
         {
-            "name": "flutter_widgets (release mode)",
+            "name": "Development",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "release"
-        }
+            "program": "lib/main.dart",
+            "args": [
+                "--dart-define=SERVICE_API=url",
+            ]
+        },
     ]
 }
