@@ -1,3 +1,5 @@
+export 'package:flutter_widgets/widgets/scroll/singleschildscrollview.dart';
+
 export 'package:flutter_widgets/widgets/specials/shortcuts.dart';
 
 export 'package:flutter_widgets/widgets/modals/simpledialog.dart';
