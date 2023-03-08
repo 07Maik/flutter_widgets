@@ -4,3 +4,4 @@ Sliver*
 
 **go_router [deeplinking]
 **Rive
+**rxdart
