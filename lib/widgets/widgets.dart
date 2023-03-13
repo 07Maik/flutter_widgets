@@ -1,3 +1,9 @@
+export 'package:flutter_widgets/widgets/animations/slidetransition.dart';
+
+export 'package:flutter_widgets/widgets/display/sizedoverflowbox.dart';
+
+export 'package:flutter_widgets/widgets/display/sizedbox.dart';
+
 export 'package:flutter_widgets/widgets/animations/sizetransition.dart';
 
 export 'package:flutter_widgets/widgets/scroll/singleschildscrollview.dart';
