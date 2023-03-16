@@ -1,3 +1,5 @@
+export 'package:flutter_widgets/widgets/scroll/sliverappbar.dart';
+
 export 'package:flutter_widgets/widgets/inputs/slider.dart';
 
 export 'package:flutter_widgets/widgets/animations/slidetransition.dart';
