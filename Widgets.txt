@@ -1,6 +1,14 @@
 Flow*
 Sliver*
 
+intrinsic width and height
+wrap
+Spacer
+fittedbox
+expanded
+mediaquery
+nestedscrollview
+willpopscope
 
 **go_router [deeplinking]
 **Rive
